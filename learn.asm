@@ -10,6 +10,7 @@ code segment
 start:
 
     ; add your code here
+    cố lên ahuy
 
 mov ax, 4c00h
 int 21h  
